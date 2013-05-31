@@ -1,0 +1,13 @@
+On behalf of the Ruby community, we are pleased to announce to you that a brand new ruby-lang.org is now live!
+
+Ruby's official website has stalled over the years, leading to a situation where only a subset of the available languages were actually maintained. Still, their content may not even be relevant in the current Ruby ecosystem. Something had to be done! A few rubyists thus gathered to build a whole new contribution platform, switching from a private CMS to an opened process.
+
+Everyone is now able to edit the content and fix kinks in no time! We have set up a git-based process and Jekyll now powers the website: head to https://github.com/ruby/www.ruby-lang.org/wiki to learn more about the project and how to contribute.
+
+We hope to be hearing from you and reviewing your Pull Requests,
+
+Hal Brodigan (postmodern),
+Jean-Denis Vauguet (chikamichi),
+Marcus Stollsteimer (stomar),
+James Edward Gray II (JEG2),
+Hiroshi Shibata (hsbt).

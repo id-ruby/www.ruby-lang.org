@@ -27,7 +27,7 @@ The comp.lang.ruby Newsgroup
 : Those who prefer Usenet over mailing lists will want to checkout the
   [comp.lang.ruby](news:comp.lang.ruby) newsgroup.
 
-<form action="/en/community/mailing-lists/" id="subscriptions-form" method="post" markdown="1">
+<form action="http://ruby-lang-mls.herokuapp.com/submit" id="subscriptions-form" method="post" markdown="1">
 ## Subscribe or Unsubscribe
 
 | Mailing List | <select name="list"><option value="ruby-talk">Ruby-Talk</option><option value="ruby-core">Ruby-Core</option><option value="ruby-doc">Ruby-Doc</option><option value="ruby-cvs">Ruby-CVS</option></select> |
